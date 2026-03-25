@@ -13,3 +13,5 @@ Documentação Gráfica e Escrita: Guia sobre escalas e tipos de plantas (Situa�
 * [Construção_Civil_O_Projeto.pdf](https://www.ginead.com.br/ava/curso/curso-online-gratis-basico-de-construcao-civil/a1-projeto)
 * [Canteiro_Organização_Logística_Operacional.pdf](https://www.ginead.com.br/ava/curso/curso-online-gratis-basico-de-construcao-civil/a2-canteiro-de-obras)
 * [Escavações e Escoramentos.pdf](https://www.ginead.com.br/ava/curso/curso-online-gratis-basico-de-construcao-civil/a3-escavacoes-e-escoramentos)
+
+**OBSERVAÇÃO:** É necessário uma conta cadastrada no site para acessar as fontes.
